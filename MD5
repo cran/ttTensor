@@ -1,4 +1,4 @@
-9bded5e87ac67a965dd1809371e8d51a *DESCRIPTION
+e2bcbf679c8e18ed77f5b51587868853 *DESCRIPTION
 2d005dfd123e2bede8b1cd1517f92c38 *NAMESPACE
 196e18e4e9541f8761a67f2bdf1508de *R/TTCross.R
 2edf412703166df58ffef2f241b8aac1 *R/TTSVD.R
@@ -6,8 +6,9 @@
 6304cae7193671a978223887edb26e7d *R/maxvol.R
 6f69e1dde6ffe830e37435da0803f850 *R/skeleton.decomp.R
 a1ba48e4de74185b392a48fac2767318 *R/ttTensor-internal.R
-5461f580ac3527b5c3c0490d2c5dba9a *build/partial.rdb
-b23f062d5d77639e4431ef8f945db8c7 *inst/NEWS
+70d1a6cbfffdba7cfcbe1b39653edf9a *README.md
+456bc9d6cbf1c8a52c7f611239bb9280 *build/partial.rdb
+265d2853b362ddcc005b8b375d80dc4f *inst/NEWS
 2fd8aba734480ac75085df60ba1064f3 *man/TTCross.Rd
 3a974013fbe3c31ae496e606ff675954 *man/TTSVD.Rd
 fe0b1a241d15f003b1aab5c2daf3f0d1 *man/TTWOPT.Rd
